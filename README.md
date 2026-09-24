@@ -6,3 +6,7 @@
 
 3.Tipe Data Dasar
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5c453392-1934-4d41-a287-572751fc82a7" />
+
+4.Collection — List
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7d1764db-8ae1-4373-95e9-cf0405472881" />
+
