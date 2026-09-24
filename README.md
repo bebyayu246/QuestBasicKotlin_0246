@@ -15,3 +15,6 @@
 
 6.Collection — Map
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c45711df-19bf-4f5a-bb3f-d92035e37a4d" />
+
+7.Conditional Expressions — If
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c896e79e-7f50-4e60-a45c-e6ed48294b77" />
