@@ -18,3 +18,16 @@
 
 7.Conditional Expressions — If
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c896e79e-7f50-4e60-a45c-e6ed48294b77" />
+
+8.Conditional Expressions — When
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/678213cf-c112-4467-bb39-3b7f5d2383ee" />
+
+9.Ranges
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/26a4d9bc-6571-453e-9114-027a2853e3fb" />
+
+10.Loops — For
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/89f07978-80a8-4599-be5f-13501a305b6c" />
+
+
+
+
