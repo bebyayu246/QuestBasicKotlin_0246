@@ -12,3 +12,6 @@
 
 5.Collection — Set
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5d9b0747-1fe7-4f86-8cca-e00ee0a00a2b" />
+
+6.Collection — Map
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c45711df-19bf-4f5a-bb3f-d92035e37a4d" />
