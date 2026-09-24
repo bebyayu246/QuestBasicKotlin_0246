@@ -28,6 +28,59 @@
 10.Loops — For
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/89f07978-80a8-4599-be5f-13501a305b6c" />
 
+11.Functions
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d526c8ee-17ca-4109-9f62-66dbc21ed979" />
+
+12.Named Arguments
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e8f9b0da-86cd-4d2d-b67e-ec9c1e0f7aef" />
+
+13.Default Parameter Values
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ca2ef8c1-b382-4d93-98fd-d72454215ec2" />
+
+14.Functions Without Return
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/989e6d0a-ef48-4c50-9941-fd3160233cdd" />
+
+15.Lambda Expressions
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/71d863e9-4d9a-473f-b9d1-77a32590831a" />
+
+16.Properties & Create Instance
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ffb48c13-74d4-4f9a-9de4-9ce5393367cd" />
+
+17.Access Properties
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/65168a7a-afad-4c77-9c74-f569ef773921" />
+
+18.Member functions
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ac4818ac-3e37-4180-a1bb-75b4db5efef1" />
+
+19.Data Classes & Print as String
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/35c8a2e7-de14-444f-8648-2d528f78a74f" />
+
+20.Compare Instances
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ab95d776-f22f-41a3-965a-569a016d1629" />
+
+21.Copy Instance
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cb241ef9-514d-4414-a401-e39dcf9711ce" />
+
+22.Nullable types
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/87b61e9a-f195-48ba-ba48-687d9e3c3887" />
+
+23.Check for null values
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0e443d9b-f028-4d47-b251-b1a9d299c881" />
+
+24.Use safe calls 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f5706683-202a-4296-82fc-674951748f01" />
+
+25.Use Elvis operator 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2dbe5410-742f-44b0-839c-bb749b5b63e5" />
+
+
+
+
+
+
+
+
+
 
 
 
